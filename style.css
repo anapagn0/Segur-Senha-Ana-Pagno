@@ -50,7 +50,7 @@
         font-family: var(--roboto-mono);
     }
 
-    #campo-senha-focus{
+    #campo-senha:focus{
         outline: none;
         
     }
